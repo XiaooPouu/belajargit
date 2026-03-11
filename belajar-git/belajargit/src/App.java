@@ -8,6 +8,7 @@ public class App {
     System.out.println("Masukan Nama : ");
     String name = scanner.next();
 
-    System.out.print("Hola " + name);
+    System.out.print("Hola " + name + "Selamat Datang!");
+    System.out.println("Apa Kabar?");
     }
 }
